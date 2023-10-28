@@ -1,0 +1,4 @@
+git.sr.ht/~hamcha/containers v0.3.5 h1:Bds3sEAcILQGJeKasIio5og5O6P7GzjrkBPKcqsMpt0=
+git.sr.ht/~hamcha/containers v0.3.5/go.mod h1:RiZphUpy9t6EnL4Gf6uzByM9QrBoqRCEPo7kz2wzbhE=
+nhooyr.io/websocket v1.8.10 h1:mv4p+MnGrLDcPlBoWsvPP7XCzTYMXP9F9eIGoKbgx7Q=
+nhooyr.io/websocket v1.8.10/go.mod h1:rN9OFWIUwuxg4fR5tELlYC04bXYowCP9GX47ivo2l+c=
